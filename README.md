@@ -1,4 +1,4 @@
-# Relationship between airline flight delays and weather 
+# Relationship between airline flight delays and weather conditions
 
 EXPLORING THE RELATIONSHIP BETWEEN AIRLINE FLIGHT DELAYS AND WEATHER CONDITIONS
 
